@@ -17,14 +17,15 @@ Menyediakan rekomendasi tindakan, seperti konsumsi obat tertentu, perubahan pola
 4. Personalisasi Rekomendasi
 Menyesuaikan pesan dan saran berdasarkan kategori umur dan kondisi spesifik pengguna untuk memberikan solusi yang relevan dan efektif.
 # Fitur 
-1. cek pemeriksaan (kadar kolesterol, asam urat, dan tekanan darah)
-2. history kesehatan user
-3. pembelian obat sesuai rekomendasi sistem (terdapat pilihan pembelian obat sesuai penyakit user, seperti tekanan darah tinggi, tekanan darah rendah, kolesterol tinggi, asam urat tinggi) 
+1. cek pemeriksaan (kadar kolesterol, asam urat, dan tekanan darah): user akan memasukkan kadar dari hasil pemeriksaan di klinik kesehatan, user bisa memilih untuk pemeriksaan kadar dari ketiga kategori tersebut. setelah itu sistem akan mendeteksi apakah kadar user termasuk normal/abnormal (tinggi/rendah), lalu sistem akan memberikan pesan untuk user serta rekomendasi obat untuk pemulihan.  
+2. history kesehatan user: user bisa melihat history yang berisi kapan user terakhir cek dan user akan mengetahui perkembangan kesehatan tubuh user baik normal maupun tidak
+3. pembelian obat sesuai rekomendasi sistem: terdapat pilihan pembelian obat sesuai penyakit user, seperti tekanan darah tinggi, tekanan darah rendah, kolesterol tinggi, asam urat tinggi. user bisa memilih pembelian obat berdasarkan hasil pemeriksaan tersebut.  
 # Cara Kerja
-1. User akan mendaftarkan diri untuk login di app Care4U (pengisian nama lengkap, username, dan password). User akan login ke akun yang sudah didaftarkan.
-2. User akan memilih untuk melihat pilihan: (cek kesehatan, history kesehatan, pembelian obat)
-3. Ketika user memilih cek kesehatan, user akan menginput umur serta kadar dari kolesterol, tekanan darah (sistolik dan diastolik), dan asam urat, lalu user akan melihat hasil pemeriksaan apakah kadar didalam tubuhnya termasuk normal atau tidak dan sistem akan memberi rekomendasi obat serta pesan untuk user.
-4. setelah melihat rekomendasi obat, user bisa melakukan pemesanan obat sesuai penyakit yang diderita dan rekomendasi dari sistem. 
+1. User akan mendaftarkan diri untuk login di app Care4U (pengisian nama lengkap, username, dan password).
+2. User akan login ke akun yang sudah didaftarkan.
+3. User akan memilih untuk melihat pilihan: (cek kesehatan, history kesehatan, pembelian obat)
+4. Ketika user memilih cek kesehatan, user akan menginput umur serta kadar dari kolesterol, tekanan darah (sistolik dan diastolik), dan asam urat, lalu user akan melihat hasil pemeriksaan apakah kadar didalam tubuhnya termasuk normal atau tidak dan sistem akan memberi rekomendasi obat serta pesan untuk user.
+5. setelah melihat rekomendasi obat, user bisa melakukan pemesanan obat sesuai penyakit yang diderita dan rekomendasi dari sistem. 
 
 
 # Flowchart
