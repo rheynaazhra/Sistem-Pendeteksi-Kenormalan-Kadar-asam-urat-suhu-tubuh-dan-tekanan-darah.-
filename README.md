@@ -1,6 +1,8 @@
 Kelompok 2 
 Anggota Kelompok : - Nabil Aldifari (I0324107)
+
                    - Rheynata Azzahra (I0324128)
+                   
                    - Laurensius Claudio Tanndy (I0324131)
 
 # Aplikasi Care4U
