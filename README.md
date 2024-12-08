@@ -14,6 +14,10 @@ Memberikan informasi yang jelas tentang kondisi tubuh pengguna dan meningkatkan 
 Menyediakan rekomendasi tindakan, seperti konsumsi obat tertentu, perubahan pola makan, atau gaya hidup sehat, yang sesuai dengan kondisi tubuh pengguna..
 4. Personalisasi Rekomendasi
 Menyesuaikan pesan dan saran berdasarkan kategori umur dan kondisi spesifik pengguna untuk memberikan solusi yang relevan dan efektif.
+# Fitur 
+1. cek pemeriksaan (kadar kolesterol, asam urat, dan tekanan darah)
+2. history kesehatan user
+3. pembelian obat sesuai rekomendasi sistem
 # Cara Kerja
 1. User akan mendaftarkan diri untuk login di app Care4U (pengisian nama lengkap, username, dan password). User akan login ke akun yang sudah didaftarkan.
 2. User akan memilih untuk melihat pilihan: (cek kesehatan, history kesehatan, pembelian obat)
