@@ -19,7 +19,7 @@ Menyesuaikan pesan dan saran berdasarkan kategori umur dan kondisi spesifik peng
 # Fitur 
 1. cek pemeriksaan (kadar kolesterol, asam urat, dan tekanan darah)
 2. history kesehatan user
-3. pembelian obat sesuai rekomendasi sistem
+3. pembelian obat sesuai rekomendasi sistem (terdapat pilihan pembelian obat sesuai penyakit user, seperti tekanan darah tinggi, tekanan darah rendah, kolesterol tinggi, asam urat tinggi) 
 # Cara Kerja
 1. User akan mendaftarkan diri untuk login di app Care4U (pengisian nama lengkap, username, dan password). User akan login ke akun yang sudah didaftarkan.
 2. User akan memilih untuk melihat pilihan: (cek kesehatan, history kesehatan, pembelian obat)
