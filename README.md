@@ -21,6 +21,7 @@ Menyesuaikan pesan dan saran berdasarkan kategori umur dan kondisi spesifik peng
 # Cara Kerja
 1. User akan mendaftarkan diri untuk login di app Care4U (pengisian nama lengkap, username, dan password). User akan login ke akun yang sudah didaftarkan.
 2. User akan memilih untuk melihat pilihan: (cek kesehatan, history kesehatan, pembelian obat)
-3. Ketika user memilih cek kesehatan, user akan menginput umur serta kadar dari kolesterol, tekanan darah (sistolik dan diastolik), dan asam urat, lalu user akan melihat hasil pemeriksaan apakah kadar didalam tubuhnya termasuk normal atau tidak dan sistem akan memberi rekomendasi obat serta pesan untuk user. 
+3. Ketika user memilih cek kesehatan, user akan menginput umur serta kadar dari kolesterol, tekanan darah (sistolik dan diastolik), dan asam urat, lalu user akan melihat hasil pemeriksaan apakah kadar didalam tubuhnya termasuk normal atau tidak dan sistem akan memberi rekomendasi obat serta pesan untuk user.
+4. setelah melihat rekomendasi obat, user bisa melakukan pemesanan obat sesuai penyakit yang diderita dan rekomendasi dari sistem. 
 
 
